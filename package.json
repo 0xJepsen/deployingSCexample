@@ -1,0 +1,26 @@
+{
+  "name": "custom_fees",
+  "version": "1.0.0",
+  "description": "A tutorial on using the custom fee schedules on the hedera token service",
+  "main": "index.js",
+  "scripts": {
+    "test": "index.js"
+  },
+  "keywords": [
+    "Hashgraph",
+    "Custom",
+    "Fees",
+    "Hedera",
+    "Blockchain"
+  ],
+  "author": "Waylon Jepsen",
+  "license": "ISC",
+  "dependencies": {
+    "@hashgraph/sdk": "^2.4.1",
+    "core-util-is": "^1.0.3",
+    "dotenv": "^10.0.0",
+    "hashgraph": "^0.0.3",
+    "json": "^11.0.0",
+    "update": "^0.7.4"
+  }
+}
