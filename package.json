@@ -16,7 +16,7 @@
   "author": "Waylon Jepsen",
   "license": "ISC",
   "dependencies": {
-    "@hashgraph/sdk": "^2.4.1",
+    "@hashgraph/sdk": "^2.29.0",
     "core-util-is": "^1.0.3",
     "dotenv": "^10.0.0",
     "hashgraph": "^0.0.3",
